@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exercise-Menu</string>
+    <string name="judul">LOGIN USER</string>
+    <string name="user">Username</string>
+    <string name="pass">Password</string>
+    <string name="mk_user">Masukkan Username</string>
+    <string name="mk_pass">Masukkan Password</string>
+    <string name="sign">SIGN-IN</string>
+    <string name="judul_menu">Menu Hitung Bangun Datar</string>
+</resources>
